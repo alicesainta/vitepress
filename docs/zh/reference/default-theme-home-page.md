@@ -4,7 +4,7 @@ description: 配置 VitePress 默认主题的主页布局，包括 hero 区域�
 
 # 主页 {#home-page}
 
-VitePress 默认主题提供了一个首页布局，也可以在[此站点首页](../)看到。可以通过 [frontmatter](./frontmatter-config) 指定 `layout: home` 在任何页面上使用它
+VitePress 默认主题提供了一个首页布局，也可以在[此站点首页](../)看到。可以通过 [frontmatter](./frontmatter-config) 指定 `layout: home` 在任何页面上使用它。
 
 ```yaml
 ---
@@ -103,7 +103,7 @@ VitePress 通过 (`--vp-c-brand-1`) 设置 `name` 的颜色。但是，可以通
 
 ## Features 部分 {#features-section}
 
-在 Features 部分，可以在 Hero 部分之后列出任意数量的 Feature。可以在 frontmatter 中配置  `features`。
+在 Features 部分，可以在 Hero 部分之后列出任意数量的 Feature。可以在 frontmatter 中配置 `features`。
 
 可以为每个 feature 提供一个图标，可以是表情符号或任何类型的图像。当配置的图标是图片（svg, png, jpeg...）时，必须提供合适的宽度和高度的图标；还可以在需要时配置其描述、固有大小以及深色和浅色主题下的不同表现。
 

@@ -72,7 +72,7 @@ export default defineConfig({
 
 ### MiniSearch 配置项 {#minisearch-options}
 
-你可以像这样配置 MiniSearch ：
+你可以像这样配置 MiniSearch：
 
 ```ts
 import { defineConfig } from 'vitepress'
